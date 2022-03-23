@@ -1,5 +1,6 @@
 ### Hi there, I'm Saori 👋
 
+I have graduated from le Wagon Tokyo!
 <!--
 **SaoriNL/SaoriNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
